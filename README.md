@@ -24,7 +24,7 @@ Contains transaction details of users.
 • MySQL (for the database)  
 • MySQL Connector for Python
 # Features And Functions
-1. Add User
+1. Add User<div>
 This feature allows the admin or the system to add new users with the following fields:<div>
 • Name<div>
 • Account number<div>
@@ -35,9 +35,9 @@ This feature allows the admin or the system to add new users with the following 
 • Contact Number<div>
 • Email ID<div>
 • Address
-2. Show User
+2. Show User<div>
 Displays the user's information in a formatted output (e.g., name, account number, balance, email, etc.).
-3. Login
+3. Login<div>
 Users can log in with their account number and password. After successful login, the following actions are available:<div>
 • Show balance<div>
 • show transaction details<div>
@@ -46,7 +46,7 @@ Users can log in with their account number and password. After successful login,
 • Activate/Deactivate account<div>
 • Change password<div>
 • Update profile
-4. Exit
+4. Exit<div>
 Exit the application safely.
 # Conclusion
 The Banking System is a secure and user-friendly application to manage users, transactions, and account details. It provides an easy-to-use interface for both admins and users to perform day-to-day banking tasks securely.
