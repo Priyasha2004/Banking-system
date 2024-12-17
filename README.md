@@ -25,26 +25,26 @@ Contains transaction details of users.
 • MySQL Connector for Python
 # Features And Functions
 1. Add User
-This feature allows the admin or the system to add new users with the following fields:
-• Name
-• Account number
-• Date of birth
-• City  
-• Password
-• Initial Balance  
-• Contact Number
-• Email ID
+This feature allows the admin or the system to add new users with the following fields:<div>
+• Name<div>
+• Account number<div>
+• Date of birth<div>
+• City<div>
+• Password<div>
+• Initial Balance<div>
+• Contact Number<div>
+• Email ID<div>
 • Address
 2. Show User
 Displays the user's information in a formatted output (e.g., name, account number, balance, email, etc.).
 3. Login
-Users can log in with their account number and password. After successful login, the following actions are available:
-• Show balance
-• show transaction details
-• Credit amount
-• Debit amount
-• Activate/Deactivate account
-• Change password
+Users can log in with their account number and password. After successful login, the following actions are available:<div>
+• Show balance<div>
+• show transaction details<div>
+• Credit amount<div>
+• Debit amount<div>
+• Activate/Deactivate account<div>
+• Change password<div>
 • Update profile
 4. Exit
 Exit the application safely.
