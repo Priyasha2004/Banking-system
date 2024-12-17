@@ -12,28 +12,6 @@ The Banking System is a Python-based application that allows users to manage the
 • MySQL  
 • mysql-connector for Python
 # Database Structure
-The system uses a MySQL database called banking_system with the following tables:  
-
-Banking System README
-Overview
-The Banking System is a Python-based application that allows users to manage their banking transactions securely and efficiently. This system is backed by a MySQL database and offers a range of functionalities for user management and banking transactions.
-
-Features:
-Add User: Create a new user with validated fields such as name, account number, password, balance, contact number, email, and address.
-Show User: Display user information in a proper format.
-Login: Secure user login with account number and password.
-Banking Operations: Perform transactions like credit, debit, transfers, viewing balance, viewing transaction history, and updating profile.
-Account Management: Activate or deactivate accounts and change the user’s password.
-Requirements
-Python 3.x
-MySQL (for the database)
-MySQL Connector for Python
-Install required Python libraries using the following command:
-
-bash
-Copy code
-pip install mysql-connector-python
-Database Structure
 The system uses a MySQL database called banking_system with the following tables:
 1. users
 Stores the details of the users.
@@ -41,15 +19,19 @@ Stores the details of the users.
 Contains login details for users.
 3. transaction
 Contains transaction details of users.
+# Requirements
+• Python 3.x  
+• MySQL (for the database)  
+• MySQL Connector for Python
 # Features And Functions
 1. Add User
 This feature allows the admin or the system to add new users with the following fields:
 • Name
 • Account number
 • Date of birth
-• City
+• City  
 • Password
-• Initial Balance
+• Initial Balance  
 • Contact Number
 • Email ID
 • Address
